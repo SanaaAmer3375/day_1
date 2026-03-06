@@ -1,10 +1,12 @@
 # day_1
 
 A new Flutter project.
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/cb81098a-c0eb-408d-899f-c30f83b9737d" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d8bcc6bb-cb75-46f4-9fcd-0c089d008462" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/01029456-2bdf-476d-b2f0-12e94b7f10c3" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/519e2a23-6884-400d-9a78-433a58f11b7f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb81098a-c0eb-408d-899f-c30f83b9737d" width="220" alt="Screen 1">
+  <img src="https://github.com/user-attachments/assets/d8bcc6bb-cb75-46f4-9fcd-0c089d008462" width="220" alt="Screen 2">
+  <img src="https://github.com/user-attachments/assets/01029456-2bdf-476d-b2f0-12e94b7f10c3" width="220" alt="Screen 3">
+  <img src="https://github.com/user-attachments/assets/519e2a23-6884-400d-9a78-433a58f11b7f" width="220" alt="Screen 4">
+</p>
 
 
 
